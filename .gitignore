@@ -1,0 +1,15 @@
+# data (do NOT upload large datasets)
+data/
+*.zip
+*.7z
+*.tar
+*.gz
+*.jsonl
+*.csv
+
+# macOS / VSCode / Jupyter
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
